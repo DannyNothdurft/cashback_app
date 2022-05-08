@@ -1,11 +1,16 @@
 import React from "react";
 
+// components
+import Header from "./Header";
+import Companies from "./Companies";
+import Footer from "./Footer";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>App ist jetzt bereit</h1>
-      </header>
+      <Header />
+      <Companies />
+      <Footer />
     </div>
   );
 }
