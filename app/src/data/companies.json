@@ -1,0 +1,56 @@
+[
+    {
+        "id": "9ae701e3-3f9a-4575-9f8b-578b8d62e399",
+        "companie": "Tchibo",
+        "img": "./img/tchibo_icon.png",
+        "link": ""
+    },
+    {
+        "id": "ecfb56d2-b549-45ad-9574-07f1f4cf37e4",
+        "companie": "Lidl",
+        "img": "./lidl_icon.png",
+        "link": ""
+    },
+    {
+        "id": "dae6469c-8ef1-4813-8128-da7752889d45",
+        "companie": "Etsy",
+        "img": "./img/etsy_icon.png",
+        "link": ""
+    },
+    {
+        "id": "d6ef44ec-6010-4f0c-86ad-e78096949220",
+        "companie": "Mirapodo",
+        "img": "./img/mirapodo_icon.png",
+        "link": ""
+    },
+    {
+        "id": "68d8d74a-ac73-4ad9-bed0-5f547857b50f",
+        "companie": "Fressnapf",
+        "img": "./img/fressnapf_icon.png",
+        "link": ""
+    },
+    {
+        "id": "af4b27d9-ead5-4689-a6c4-2418e03e43b6",
+        "companie": "Amazon",
+        "img": "./img/amazon_icon.png",
+        "link": ""
+    },
+    {
+        "id": "276c94f0-01a5-4193-89a2-c5d5115bbe6c",
+        "companie": "Stoffe.de",
+        "img": "./img/stoffe_icon.png",
+        "link": ""
+    },
+    {
+        "id": "4a991bbf-0d85-4dbb-84c2-5619cc9f08f4",
+        "companie": "myToys",
+        "img": "./img/mytoys_icon.png",
+        "link": ""
+    },
+    {
+        "id": "2dac987c-0112-4af8-bdad-2926289d6eaf",
+        "companie": "B.O.C.",
+        "img": "./img/boc_icon.png",
+        "link": ""
+    }
+]
